@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.bgcontainer {
+    max-width: 700px;
+    max: height 600px; 
+    margin: 50px auto;
+    background-color:green;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main
+{
+height:300px;
+width:300px;
+background-color:blueviolet;
+margin:auto;
+padding-left:10px;
+}
+button {
+    background-color:yellow;
+    color:black;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+}
